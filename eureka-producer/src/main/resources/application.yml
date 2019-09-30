@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: eureka-producer
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7000/eureka/
+server:
+  port: 8000
+
+# 默认只公开了/health和/info端点，要想暴露所有端点只需设置成星号即可
+management:
+  endpoints:
+#    显示所有健康状态
+#    health:
+#      show-details: always
+    web:
+      exposure:
+        include: '*'
+  metrics:
+    tags:
+      application: ${spring.application.name}
+#      port: ${server.port}

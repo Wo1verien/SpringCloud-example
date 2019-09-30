@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mafengwo.corp.cloud:spring-cloud-mafengwo-nacos-config:0.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/build/maven/apache-maven-3.6.1/repository/com/mafengwo/corp/cloud/spring-cloud-mafengwo-nacos-config/0.0.2-SNAPSHOT/spring-cloud-mafengwo-nacos-config-0.0.2-20190731.050209-6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/build/maven/apache-maven-3.6.1/repository/com/mafengwo/corp/cloud/spring-cloud-mafengwo-nacos-config/0.0.2-SNAPSHOT/spring-cloud-mafengwo-nacos-config-0.0.2-20190731.050209-6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/build/maven/apache-maven-3.6.1/repository/com/mafengwo/corp/cloud/spring-cloud-mafengwo-nacos-config/0.0.2-SNAPSHOT/spring-cloud-mafengwo-nacos-config-0.0.2-20190731.050209-6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

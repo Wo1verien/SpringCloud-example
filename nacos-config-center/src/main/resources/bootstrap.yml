@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: DEFAULT_GROUP
+  cloud:
+    nacos:
+      config:
+        refresh:
+          enabled: true
+        server-addresses: 127.0.0.1:8848
+        files: nacosConfig.properties
+
+server:
+  port: 8080
+

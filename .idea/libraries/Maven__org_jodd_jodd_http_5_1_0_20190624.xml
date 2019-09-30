@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jodd:jodd-http:5.1.0-20190624">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/build/maven/apache-maven-3.6.1/repository/org/jodd/jodd-http/5.1.0-20190624/jodd-http-5.1.0-20190624.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/build/maven/apache-maven-3.6.1/repository/org/jodd/jodd-http/5.1.0-20190624/jodd-http-5.1.0-20190624-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/build/maven/apache-maven-3.6.1/repository/org/jodd/jodd-http/5.1.0-20190624/jodd-http-5.1.0-20190624-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

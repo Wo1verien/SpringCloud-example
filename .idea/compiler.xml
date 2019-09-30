@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nacos-config-center" />
+        <module name="eureka-server" />
+        <module name="eureka-consumer" />
+        <module name="nacos-producer" />
+        <module name="eureka-producer" />
+        <module name="nacos-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-consumer" target="1.8" />
+      <module name="eureka-producer" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="nacos-config-center" target="1.8" />
+      <module name="nacos-consumer" target="1.8" />
+      <module name="nacos-producer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eureka-consumer" options="-parameters" />
+      <module name="eureka-producer" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="nacos-config-center" options="-parameters" />
+      <module name="nacos-consumer" options="-parameters" />
+      <module name="nacos-producer" options="-parameters" />
+    </option>
+  </component>
+</project>

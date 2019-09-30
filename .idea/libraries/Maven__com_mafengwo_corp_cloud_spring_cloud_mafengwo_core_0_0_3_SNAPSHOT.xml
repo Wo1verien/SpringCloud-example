@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mafengwo.corp.cloud:spring-cloud-mafengwo-core:0.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/build/maven/apache-maven-3.6.1/repository/com/mafengwo/corp/cloud/spring-cloud-mafengwo-core/0.0.3-SNAPSHOT/spring-cloud-mafengwo-core-0.0.3-20190926.074012-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/build/maven/apache-maven-3.6.1/repository/com/mafengwo/corp/cloud/spring-cloud-mafengwo-core/0.0.3-SNAPSHOT/spring-cloud-mafengwo-core-0.0.3-20190926.074012-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/build/maven/apache-maven-3.6.1/repository/com/mafengwo/corp/cloud/spring-cloud-mafengwo-core/0.0.3-SNAPSHOT/spring-cloud-mafengwo-core-0.0.3-20190926.074012-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
