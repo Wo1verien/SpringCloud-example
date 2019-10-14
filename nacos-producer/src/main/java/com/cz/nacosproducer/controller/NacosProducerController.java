@@ -16,16 +16,22 @@ import org.springframework.web.bind.annotation.RestController;
 public class NacosProducerController {
 
     @Value("${server.port}")
-    private String port;
+    private int port;
+
     @GetMapping("/hello")
     public String hello(@RequestParam String name) {
         log.info("invoked name = " + name);
-        return "hello " + name  + ", producer port is " + port;
+        return "hello " + name + ", producer port is " + port;
     }
 
+    //    @GetMapping("test")
+//    public String test(){
+//        return "port is " + port;
+//    }
+
     @GetMapping("test")
-    public String test(){
-        return "port is " + port;
+    public int test() {
+        return port;
     }
 }
 
